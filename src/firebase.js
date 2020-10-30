@@ -3,7 +3,7 @@ import firebase from "firebase";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = firebase.initializeApp({
-    apiKey: "AIzaSyAzvLVfnol96NBUAnjZKF_Ewgix6G5tV0o",
+    apiKey: "AIzaSyAzvL...............x6G5tV0o",
     authDomain: "instagram-clone-9479e.firebaseapp.com",
     databaseURL: "https://instagram-clone-9479e.firebaseio.com",
     projectId: "instagram-clone-9479e",
